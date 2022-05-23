@@ -7,7 +7,7 @@ nav_order: 2
 # Configuration
 {: .no_toc }
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's \_config.yml file.
+안녕하세요. 반갑습니다. 한국어 행간 간격을 확인하고 싶어요. 너무 많이 붙어있지 않았으면 좋겠는데, 꽤나 가까워보이네유 슬퍼유 다시 새로운 테마를 찾을 힘이 없서유
 {: .fs-6 .fw-300 }
 
 ## Table of contents
